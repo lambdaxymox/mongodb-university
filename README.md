@@ -1,2 +1,2 @@
 # MongoDB University
-Course materials from MongoDB univsersity courses.
+Course materials from MongoDB university courses.
